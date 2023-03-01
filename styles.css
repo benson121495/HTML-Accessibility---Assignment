@@ -18,6 +18,20 @@ a:link {
   background-color: yellow;
 }
 
+a:visited{
+  color: black;
+}
+
+a:hover{
+  color: gray;
+  ;
+}
+
+a:active{
+  color: lightgoldenrodyellow;
+}
+
+
 .article{
   background-color: grey;
   font-size: 18px;
